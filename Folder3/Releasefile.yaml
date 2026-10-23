@@ -1,0 +1,10 @@
+# Exported from:        http://DAI-3MNNZ54:5516/
+# Release version:      26.1.6-1018.130
+
+---
+apiVersion: xl-release/v1
+kind: Import
+spec:
+  imports:
+  - Notifications.yaml
+  - Template_script_template.yaml
